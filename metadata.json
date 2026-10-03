@@ -1,0 +1,8 @@
+{
+  "name": "Infinite Reels Viewer",
+  "description": "An immersive, vertically scrolling feed for viewing curated Instagram reels in a seamless, distraction-free environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
